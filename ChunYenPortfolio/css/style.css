@@ -421,8 +421,19 @@ a.r2-btn:hover{
 .top-heade{
 	background: url(../images/head-bg.jpg) no-repeat 0px 0px;
 	background-size:100%;
-	padding: 3em;
+	/*padding: 5em;*/
 }
+.top-head-bg-index{
+	background: url(../images/head-bg-index.jpg) no-repeat 0px 0px;
+	background-size:100%;
+	padding: 6em;
+}
+.top-head-bg-publications{
+	background: url(../images/head-bg-publications.jpg) no-repeat 0px 0px;
+	background-size:100%;
+	padding: 6em;
+}
+
 .top-header-left{
 	float:left;
 }
