@@ -27,6 +27,18 @@ border-radius: 15px;
 	width: 100%;
 }
 
+.projCateg{
+	padding: 1em;
+}
+.proj-li{
+	padding-bottom: 5px;
+}
+
+.mainTitle{
+	color: #FF3366;
+	font-weight: bold;
+}
+
 /*-----start-header----*/
 .header{
 }
@@ -300,7 +312,13 @@ nav a#pull {
 	padding:3em 0;
 }
 .sec1{
-
+	background: #FFFFCC;
+}
+.sec2{
+	/*background: #99CCFF;*/
+}
+.sec3{
+	/*background: #FFCC99;*/
 }
 .row2-col-info h3{
 	/*color: #FFf;*/
@@ -311,7 +329,7 @@ nav a#pull {
 .row2-col-info span{
 	font-size:1.3em;
 	/*color:#FFF;*/
-	font-weight:100;
+	/*font-weight:100;*/
 }
 .row2-col-info p{
 	line-height: 1.6em;
