@@ -34,6 +34,26 @@ border-radius: 15px;
 	padding-bottom: 5px;
 }
 
+.aboutCateg{
+	padding: 0.5em;
+	background-color: #77FFCC;
+}
+
+.aboutCateg span{
+	font-size:1.5em;
+	font-weight:1000;
+	color:#FF0000;
+}
+tr{
+
+}
+td{
+	vertical-align: top;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+
 .mainTitle{
 	color: #FF3366;
 	font-weight: bold;
@@ -61,7 +81,10 @@ border-radius: 15px;
 /*----navbar-nav----*/
 .top-header{
 	/*border-top: 7px solid #FDBD1F;*/
-	border-top: 7px solid #CC0000;
+	/*(深紅線)*/
+	/*border-top: 7px solid #CC0000;*/
+	/*亮藍線*/
+	border-top: 7px solid #0066FF;
 }
 .top-nav ul li a{
 	color: #AB6F80;
@@ -76,7 +99,10 @@ border-radius: 15px;
 .top-nav ul li a:hover{
 	color: #FFF;
 	/*background: #FDBD1F;*/
-	background: #FF5511;
+	/*橘紅框框*/
+	/*background: #FF5511;*/
+	/*淡藍框框*/
+	background: #33CCFF;
 }
 .logo a{
 	display:block;
