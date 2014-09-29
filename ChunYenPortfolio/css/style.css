@@ -111,6 +111,38 @@ td{
 	/*亮藍線*/
 	border-top: 7px solid #0066FF;
 }
+
+/*1. Home*/
+.top-header.home{
+	border-top: 7px solid #CC0000;
+}
+
+/*2. About*/
+.top-header.about{
+	border-top: 7px solid #a5d239;
+}
+
+/*3. Publications*/
+.top-header.publications{
+	border-top: 7px solid #0066FF;
+}
+
+/*4. Projects*/
+.top-header.projects{
+	border-top: 7px solid #ff8975;
+}
+
+/*5. CampusLife*/
+.top-header.campusLife{
+	border-top: 7px solid #ffc31c;
+}
+
+/*6. Contact*/
+.top-header.contact{
+	border-top: 7px solid #aa9bff;
+}
+
+
 .top-nav ul li a{
 	color: #AB6F80;
 	padding:1.5em;
@@ -129,6 +161,55 @@ td{
 	/*淡藍框框*/
 	background: #33CCFF;
 }
+
+/*1. Home*/
+.top-nav.home ul li.active a,
+.top-nav.home ul li a:hover{
+	/*橘紅框框*/
+	color: #FFF;
+	background: #FF5511;
+}
+
+/*2. About*/
+.top-nav.about ul li.active a,
+.top-nav.about ul li a:hover{
+	/*橘紅框框*/
+	color: #FFF;
+	background: #a5d239;
+}
+
+/*3. Publications*/
+.top-nav.publications ul li.active a,
+.top-nav.publications ul li a:hover{
+	/*橘紅框框*/
+	color: #FFF;
+	background: #33CCFF;
+}
+
+/*4. Projects*/
+.top-nav.projects ul li.active a,
+.top-nav.projects ul li a:hover{
+	/*橘紅框框*/
+	color: #FFF;
+	background: #ff8975;
+}
+/*5. CampusLife*/
+.top-nav.campusLife ul li.active a,
+.top-nav.campusLife ul li a:hover{
+	/*橘紅框框*/
+	color: #FFF;
+	background: #ffc31c;
+}
+
+/*6. Contact*/
+.top-nav.contact ul li.active a,
+.top-nav.contact ul li a:hover{
+	/*橘紅框框*/
+	color: #FFF;
+	background: #aa9bff;
+}
+
+
 .logo a{
 	display:block;
 }
