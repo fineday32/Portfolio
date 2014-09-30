@@ -110,7 +110,7 @@ td{
 /*------2. About------*/
 #about{
 	background-color: #a5d239;
-	padding-bottom: 50px;
+	padding-bottom: 150px;
 	background-image: url(../images/bglig.png);
 	
 }
@@ -130,10 +130,12 @@ td{
 	-moz-border-radius-topright: 20px;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
 	clear: both;
 	display: table;
 	padding-top: 30px;
-	padding-bottom: 250px;
+	padding-bottom: 130px;
 
 }
 
@@ -200,6 +202,47 @@ td{
 	padding-bottom: 50px;
 
 }
+
+/*------5. Campus Life------*/
+#campusLife{
+	background-color: #99BBFF;
+	padding-bottom: 150px;
+	background-image: url(../images/bglig.png);
+	
+}
+
+.CampusLifeContainer{
+	width: 1002px;
+	/*margin-top: -91px;*/
+	margin-right: auto;
+	/*margin-bottom: 0px;*/
+	margin-left: auto;
+	position: relative;
+	top: 50px;
+	background-color: #FFFFFF;
+	-webkit-border-top-left-radius: 20px;
+	-webkit-border-top-right-radius: 20px;
+	-moz-border-radius-topleft: 20px;
+	-moz-border-radius-topright: 20px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	clear: both;
+	display: table;
+	padding-top: 30px;
+	padding-bottom: 50px;
+
+}
+
+/*------6. Contact------*/
+#contact{
+	background-color: #DDDDDD;
+	padding-bottom: 0px;
+	background-image: url(../images/bglig.png);
+	
+}
+
 
 
 /*-----start-gallery----*/
@@ -273,7 +316,10 @@ td{
 
 /*6. Contact*/
 .top-header.contact{
-	border-top: 7px solid #ff8975;
+	/*粉紅色*/
+	/*border-top: 7px solid #ff8975;*/
+	/*灰色*/
+	border-top: 7px solid #AAAAAA;
 }
 
 
@@ -337,7 +383,10 @@ td{
 .top-nav.contact ul li.active a,
 .top-nav.contact ul li a:hover{
 	color: #FFF;	
-	background: #ff8975;
+	/*粉紅*/
+	/*background: #ff8975;*/
+	/*灰*/
+	background: #AAAAAA;
 }
 
 
@@ -574,6 +623,12 @@ nav a#pull {
 	/*background:#AB6F80;*/
 	padding:3em 0;
 }
+.row2-head h4{
+	color:#FF0000;
+	font-weight:bold;
+	font-size:1.8em;
+	margin:0 0 0.2em 0;
+}
 .sec1{
 	background: #FFFFCC;
 }
@@ -698,6 +753,14 @@ a.r2-btn:hover{
 	background-size:100%;
 	padding: 6em;
 }
+
+/*------ 4. projects ------*/
+.top-head-bg-projects{
+	background: url(../images/head-bg-projects2.jpg) no-repeat 0px 0px;
+	background-size:100%;
+	padding: 6em;
+}
+
 
 .top-header-left{
 	float:left;
@@ -880,7 +943,7 @@ a.r2-btn:hover{
 }
 /*----start-contact----*/
 .contact{
-	margin: 0em 0 9em;
+	margin: 0em 0 0em;
 }
 /*----*/
 /*  Contact Form  */
