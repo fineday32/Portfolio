@@ -237,7 +237,7 @@ td{
 
 /*------6. Contact------*/
 #contact{
-	background-color: #DDDDDD;
+	background-color: #F0F0F0;
 	padding-bottom: 0px;
 	background-image: url(../images/bglig.png);
 	
@@ -319,7 +319,7 @@ td{
 	/*粉紅色*/
 	/*border-top: 7px solid #ff8975;*/
 	/*灰色*/
-	border-top: 7px solid #AAAAAA;
+	border-top: 7px solid #d0d0d0;
 }
 
 
@@ -386,7 +386,7 @@ td{
 	/*粉紅*/
 	/*background: #ff8975;*/
 	/*灰*/
-	background: #AAAAAA;
+	background: #E0E0E0;
 }
 
 
