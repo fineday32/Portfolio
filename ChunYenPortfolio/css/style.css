@@ -625,7 +625,8 @@ nav a#pull {
 /*----row2----*/
 .row2{
 	/*background:#AB6F80;*/
-	padding:3em 0;
+	/*padding:3em 0em;*/
+	padding-bottom: 3em;
 }
 .row2-head h4{
 	color:#FF3366;
