@@ -235,6 +235,10 @@ td{
 
 }
 
+.campusLifePicRow{
+	padding-bottom: 2em;
+}
+
 /*------6. Contact------*/
 #contact{
 	background-color: #F0F0F0;
@@ -624,7 +628,7 @@ nav a#pull {
 	padding:3em 0;
 }
 .row2-head h4{
-	color:#FF0000;
+	color:#FF3366;
 	font-weight:bold;
 	font-size:1.8em;
 	margin:0 0 0.2em 0;
