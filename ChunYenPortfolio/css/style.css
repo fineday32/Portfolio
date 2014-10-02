@@ -37,23 +37,23 @@ border-radius: 15px;
 .aboutCateg{
 	margin: 2em 0 1em 0;
 	min-width: 40em;
-	font-size: 16px;
+	/*font-size: 16px;*/
 	line-height: 2em;
-	padding: 0.5em 4em 0.5em;
+	padding: 0.5em 0em 0.5em 4em;
 	/*padding-left: 4em;*/
 	font-weight: bold;
-	background-color: #00DDDD;
-	color: white;
+	background-color: #97CBFF;
+	/*border-bottom: 1px solid #000000;*/
 	/*padding: 0.5em;*/
-	border-top-left-radius: 10px;
-	border-top-right-radius: 10px;
+	/*border-top-left-radius: 10px;
+	border-top-right-radius: 10px;*/
 	
 }
 
 .aboutCateg span{
 	font-size:1.5em;
 	font-weight:1000;
-	color:#FF0000;
+	color:#FF3366;
 }
 tr{
 
@@ -109,7 +109,7 @@ td{
 
 /*------2. About------*/
 #about{
-	background-color: #a5d239;
+	background-color: #93FF93;
 	padding-bottom: 150px;
 	background-image: url(../images/bglig.png);
 	
