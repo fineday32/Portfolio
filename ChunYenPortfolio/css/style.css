@@ -241,7 +241,7 @@ td{
 
 /*------6. Contact------*/
 #contact{
-	background-color: #F0F0F0;
+	background-color: #FCFCFC;
 	padding-bottom: 0px;
 	background-image: url(../images/bglig.png);
 	
@@ -1077,7 +1077,7 @@ span.mail a:hover{
 	margin-bottom: 0.6em;
 }
 .span_1_of_first1 {
-	width: 29.5%;
+	/*width: 29.5%;*/
 }
 .col_1_of_bottom:first-child {
 	margin-left: 0;
