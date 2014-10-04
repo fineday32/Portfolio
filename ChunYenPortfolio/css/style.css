@@ -241,20 +241,25 @@ td{
 
 /*------6. Contact------*/
 #contact{
-	background-color: #FCFCFC;
+
+	background-color: #E0E0E0;
 	padding-bottom: 0px;
 	background-image: url(../images/bglig.png);
 	
 }
 #contact ul{
 	list-style:none;
+	position: relative;
+	top:30px;
 }
 
 
 
 /*-----start-gallery----*/
 .gallery{
-	padding:3em 0 0 0;
+	/*padding:3em 0 0 0;*/
+	position: relative;
+	top:-30px;
 }
 .gallery h3{
 	color:#F0645D;
@@ -326,7 +331,7 @@ td{
 	/*粉紅色*/
 	/*border-top: 7px solid #ff8975;*/
 	/*灰色*/
-	border-top: 7px solid #d0d0d0;
+	border-top: 7px solid #9D9D9D;
 }
 
 
