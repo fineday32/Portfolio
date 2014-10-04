@@ -774,6 +774,13 @@ a.r2-btn:hover{
 	padding: 6em;
 }
 
+/*------ 5. campusLife ------*/
+.top-head-bg-campusLife{
+	background: url(../images/head-bg-campusLife.jpg) no-repeat 0px 0px;
+	background-size:100%;
+	padding: 6em;
+}
+
 
 .top-header-left{
 	float:left;
