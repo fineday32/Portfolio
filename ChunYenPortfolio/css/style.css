@@ -103,8 +103,9 @@ td{
 	width: 700%;
 	height: 700%;
 	position: relative;
-	top: 290px;
-	left: 440px;
+	float: right;
+	
+	
 }
 
 /*------2. About------*/
