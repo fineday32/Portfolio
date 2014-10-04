@@ -171,6 +171,23 @@ td{
 
 }
 
+.PublicationsContainer ul{
+	display: block;
+	list-style-type: disc;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	-webkit-padding-start: 40px;
+}
+
+
+.PublicationsContainer li{
+	display: list-item;
+text-align: -webkit-match-parent;
+}
+
+
 /*------4. Projects------*/
 #projects{
 	background-color: #FFEE99;
@@ -888,7 +905,7 @@ a.r2-btn:hover{
 	text-transform: uppercase;
 }
 .service-content ul li{
-	display: block;
+	/*display: block;*/
 }
 .service-content ul li span{
 	width: 5%;
