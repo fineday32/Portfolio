@@ -246,6 +246,9 @@ td{
 	background-image: url(../images/bglig.png);
 	
 }
+#contact ul{
+	list-style:none;
+}
 
 
 
@@ -978,10 +981,11 @@ a.r2-btn:hover{
 	font-family: 'Open Sans', sans-serif;
 }
 span.mail a {
-	color:#AB6F80;
+	/*color:#AB6F80;*/
 }
 span.mail a:hover{
-	color:#626262;
+	/*color:#626262;*/
+	color:red;
 }
 .contact-to input[type="text"] {
 	padding: 12px 10px;
